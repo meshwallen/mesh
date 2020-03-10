@@ -1,0 +1,9 @@
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.frmPassword.resources
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+c:\users\16324\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
