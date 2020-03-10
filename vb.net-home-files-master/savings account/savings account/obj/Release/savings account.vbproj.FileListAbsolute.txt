@@ -1,0 +1,11 @@
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\bin\Release\savings account.exe.config
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings account.vbprojResolveAssemblyReference.cache
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings_account.frmSavings.resources
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings_account.Resources.resources
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings account.vbproj.GenerateResource.Cache
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\bin\Release\savings account.exe
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\bin\Release\savings account.pdb
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\bin\Release\savings account.xml
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings account.exe
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings account.xml
+C:\Users\16324\Downloads\vb.net-home-files-master\savings account\savings account\obj\Release\savings account.pdb
